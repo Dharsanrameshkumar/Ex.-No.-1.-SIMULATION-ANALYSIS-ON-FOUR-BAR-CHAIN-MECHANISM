@@ -53,13 +53,11 @@
 
 
 ## Output:
+### Name:Dharsan R
+### Register Number: 212223100003
 
 ![Screenshot (116)](https://github.com/Dharsanrameshkumar/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/144870430/b2e36a56-f94e-47cf-9792-f4470230da56)
 
-
-
-### Name:Dharsan R
-### Register Number: 212223100003
 
 ## RESULT:
 
